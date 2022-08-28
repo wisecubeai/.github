@@ -12,4 +12,4 @@
 -->
 1. **Graphster** : Unified Knowledge Graph Library
 1. **Orpheus** : Knowledge Graph Exploration Tool
-1. **Nephos** : Enterprise Knowledge Graph and ML-Ops Platform
+1. **Nephos** : Enterprise Knowledge Graph Platform
