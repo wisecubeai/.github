@@ -12,4 +12,4 @@
 -->
 ### Graphster: Unified Knowledge Graph Library
 ### Orpheus: Biomedical Knowledge Exploration Tool
-### Nephos: ML-Ops Platform
+### Nephos: Enterprise Knowledge Graph and ML-Ops Platform
