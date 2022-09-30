@@ -1,4 +1,4 @@
-# Wisecube Knowledge Graph Solutions
+# [Wisecube](https://www.wisecube.ai) Knowledge Graph Solutions
 
 <!--
 
