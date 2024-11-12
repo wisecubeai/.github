@@ -1,4 +1,4 @@
-# [Wisecube](https://www.wisecube.ai) Knowledge Graph Solutions
+# [Wisecube](https://www.wisecube.ai) Trustworthy AI Solutions
 
 <!--
 
@@ -10,6 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+1. **Pythia** : AI Observability Solution
 1. **Graphster** : Unified Knowledge Graph Library
 1. **Orpheus** : Knowledge Graph Exploration Tool
-1. **Nephos** : Enterprise Knowledge Graph Platform
